@@ -1,0 +1,3 @@
+[$HOME/.config/vcsh/repo.d/vundle.git]
+checkout = vcsh clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/vundle vundle
+push = :
